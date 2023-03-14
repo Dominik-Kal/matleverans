@@ -1,0 +1,246 @@
+.colors{
+    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    color: rgb(83, 85, 87);
+    color: rgb(128, 129, 131);
+    color: rgb(146, 45, 204);
+}
+
+.main_div{
+    display: flex;
+    flex-wrap: wrap;
+    height: 994px;
+    width: 1780px;
+    background-color: rgb(129, 41, 41);
+}
+
+.navbar{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1780px;
+    height: 100px;
+    background-color: rgb(83, 85, 87);
+}
+
+.navbar_logo{
+    display: flex;    
+    flex-wrap: wrap;
+    width: 300px;
+    height: 100px;
+    background-color: rgb(83, 85, 87);
+}
+
+.navbar_logo img{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100px;
+    width: 300px;
+}
+
+.navbar_buttons{
+    display: flex;    
+    flex-wrap: wrap;
+    margin-left: 580px;
+    width: 900px;
+    height: 100px;
+    background-color: rgb(83, 85, 87);
+}
+
+.navbar_buttons img{
+    display: flex;
+    flex-wrap: wrap;
+    height: 50px;
+    width: 50px;
+}
+
+.navbar_buttons a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.navbar_buttons a:hover{
+    color: black;
+}
+
+.navbar_buttonstext_1{
+    position: absolute;
+    margin-left: 134px;
+    margin-top: 15px;
+} 
+
+.navbar_buttonstext_2{
+    position: absolute;
+    margin-left: 340px;
+    margin-top: 15px;
+} 
+
+.navbar_buttonstext_3{
+    position: absolute;
+    margin-left: 561px;
+    margin-top: 15px;
+} 
+
+.navbar_buttonstext_4{
+    position: absolute;
+    margin-left: 775px;
+    margin-top: 15px;
+} 
+
+.menu_food{
+    background-color: rgb(83, 85, 87);
+    height: 300px;
+    width: 700px;
+    margin-left: 125px;
+}
+
+.menu_food img{
+    height: 300px;
+    width: 300px;
+}
+
+.menu_food p{
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 360px;
+    margin-right: 200px;
+    max-width: 300px;
+    color: rgb(128, 129, 131);
+}
+
+.menu_food h1{
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 310px;
+    margin-right: 200px;
+    max-width: 300px;
+    color: rgb(128, 129, 131);
+}
+
+.menu_food button{
+    position: absolute;
+    margin-left: 307px;
+    margin-top: 10px;
+}
+
+.contact{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(83, 85, 87);
+    height: 700px;
+    width: 500px;
+    margin-left: 300px;
+}
+
+.contact p{
+    display: flex;
+    max-width: 400px;
+    text-align: center;
+    align-items: center;
+    margin-left: 40px;
+}
+
+.contact_picture{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    background-color: rgb(83, 85, 87);
+    height: 300px;
+    width: 400px;
+    margin-left: 900px;
+    margin-top: 200px;
+}
+
+.contact_picture img{
+    width: 400px;
+    height: 300px;
+}
+
+.contact_find_us{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    background-color: rgb(83, 85, 87);
+    height: 300px;
+    width: 400px;
+    margin-left: 900px;
+    margin-top: 560px;
+}
+
+.contact_find_us img{
+    width: 400px;
+    height: 300px;
+}
+
+.login{
+    background-color: rgb(83, 85, 87);
+    height: 700px;
+    width: 900px;
+    margin-left: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login h3{
+    text-decoration: none;
+}
+
+.information{
+    outline: double 8px rgb(128, 129, 131); 
+    margin-top: -300px;
+}
+
+.welcome{
+    height: 300px;
+    width: 900px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 400px;
+    background-color: rgb(83, 85, 87);
+}
+
+.welcome img{
+    width: 100px;
+    height: 100px;
+}
+
+.welcome a{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.welcome h5{
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    position: absolute;
+    margin-top: 280px;
+}
+
+.main_div p{
+    color: white;
+}
+
+.main_div a{
+    color: white;
+}
+
+.main_div h1{
+    color: white;
+}
+
+.main_div h2{
+    color: white;
+}
+
+.main_div h5{
+    color: white;
+}
+
+.main_div h6{
+    color: white;
+}
